@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+        <polygon id="path-3" points="0 0 24 0 24 24 0 24"></polygon>
+    </defs>
+    <g id="V2.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="非-AI-创作认证" transform="translate(-1330.000000, -30.000000)">
+            <g id="属性-1=Normal" transform="translate(1284.000000, 30.000000)">
+                <g id="最小化" transform="translate(46.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="路径"></g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="路径"></g>
+                    <path d="M18.000849,12.9984232 L5.99915099,12.9998788 C5.44740206,12.9999457 5.00006693,12.5527191 5.00000001,12.0009702 C5,12.0009298 5,12.0008894 5,12.000849 C5,11.4490135 5.44731554,11.0016437 5.99915099,11.0015768 L18.000849,11.0001212 C18.5525979,11.0000543 18.9999331,11.4472809 19,11.9990298 C19,11.9990702 19,11.9991106 19,11.999151 C19,12.5509865 18.5526845,12.9983563 18.000849,12.9984232 Z" id="路径" fill="currentColor" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

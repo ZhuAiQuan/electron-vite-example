@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+        <polygon id="path-3" points="0 0 24 0 24 24 0 24"></polygon>
+    </defs>
+    <g id="V2.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="非-AI-创作认证" transform="translate(-1284.000000, -30.000000)">
+            <g id="全屏" transform="translate(1284.000000, 30.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="路径"></g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="路径"></g>
+                <path d="M9.26176471,19 L17.3529412,19 C18.2625953,19 19,18.2625953 19,17.3529412 L19,9.26176471 L9.26176471,19 Z M14.73,5 L5,14.73 L5,6.64705882 C5,5.73740965 5.73740965,5 6.64705882,5 L14.73,5 Z" id="形状结合" fill="currentColor" mask="url(#mask-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

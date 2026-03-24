@@ -1,0 +1,16 @@
+.context {
+    margin-bottom: 24px;
+    position: relative;
+
+    &-hide-mb {
+        margin-bottom: 0;
+    }
+
+    .fail-text {
+        color: #ff4f48;
+        font-size: 12px;
+        line-height: 16px;
+        padding-top: 3px;
+        position: absolute;
+    }
+}

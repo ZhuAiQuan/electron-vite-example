@@ -1,0 +1,40 @@
+.switch-group-context {
+  position: relative;
+  display: flex;
+  align-items: center;
+  color: #8a8a98;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.container {
+  background: rgba(234, 240, 245, 0.4);
+  border-radius: 8px;
+  padding: 6px;
+}
+
+.actived {
+  height: 100%;
+  background-color: #fff;
+  border-radius: 8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}
+
+.switch {
+  line-height: 38px;
+  text-align: center;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.switch-active {
+  color: #2b293b;
+  font-weight: 600;
+  position: relative;
+  transition: all 0.3s ease-in 0.1s;
+}
