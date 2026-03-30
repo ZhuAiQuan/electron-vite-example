@@ -2,11 +2,12 @@ import { app } from 'electron'
 import { electronApp, optimizer } from '@electron-toolkit/utils'
 import App, { ServiceManage, ControllerManage } from '@/framework'
 import { RootModule } from '@/modules'
+import { getBasePath } from './utils/config'
 
 const service = new ServiceManage()
 const controller = new ControllerManage()
 const module = new RootModule()
-const electronInst = new App(service, controller, module)
+export const electronInst = new App(service, controller, module)
 
 app.whenReady().then(() => {
   electronApp.setAppUserModelId('com.electron')
@@ -15,6 +16,7 @@ app.whenReady().then(() => {
   })
 
   electronInst.init()
+  getBasePath()
 })
 
 app.on('window-all-closed', () => {
